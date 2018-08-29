@@ -13,6 +13,7 @@ Design and implement a Parking Spot Finder application. This app is used by a pa
 	• Parking lot has only 1 level - I.e. It's an open air space.
 	• There is only one Entrance and one Exit to the parking lot. Only one car can enter or exit from the lot at a particular time.
 
+
 ## Instructions
 Repository has the un-optimized code that implements requirements mentioned above.
 * Optimize the code to make it more testable
