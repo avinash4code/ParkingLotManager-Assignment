@@ -1,5 +1,11 @@
 # ParkingLotManager-Assignment
 
+## Instructions to solve assignment
+Repository has the un-optimized code that implements requirements mentioned below.
+* Optimize the code to make it more testable
+* Come up with possible test cases and add those automated tests to the solution.
+------------------------------------------------------------------------------------------
+
 ## Functional Requirements for the app
 Design and implement a Parking Spot Finder application. This app is used by a parking lot attendant to find the right open spot for the car entering parking lot.
 
@@ -14,7 +20,3 @@ Design and implement a Parking Spot Finder application. This app is used by a pa
 	• There is only one Entrance and one Exit to the parking lot. Only one car can enter or exit from the lot at a particular time.
 
 
-## Instructions
-Repository has the un-optimized code that implements requirements mentioned above.
-* Optimize the code to make it more testable
-* Come up with possible test cases and add those automated tests to the solution.
